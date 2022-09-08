@@ -1,0 +1,8 @@
+library ieee;
+use ieee.std_logic_1164.all;
+entity mux_8x1 is
+port(giris:in std_logic_vector(7 downto 0);
+			s:in std_logic_vector(2 downto 0);
+			q:out std_logic);
+architecture calismasi of mux_8x1 is
+component mux_2x1 is

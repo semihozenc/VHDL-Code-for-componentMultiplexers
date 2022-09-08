@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\semo_\OneDrive\Masaüstü\Donanim Kodlama\component_mux\simulation\modelsim
+Emux_2x1
+Z1 w1649521426
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\semo_\OneDrive\Masaüstü\Donanim Kodlama\component_mux\simulation\modelsim
+Z5 8C:/Users/semo_/OneDrive/Masaüstü/Donanim Kodlama/component_mux/mux_2x1.vhd
+Z6 FC:/Users/semo_/OneDrive/Masaüstü/Donanim Kodlama/component_mux/mux_2x1.vhd
+l0
+L3
+VB0Z?VEQERVPl4kYUfZC0K1
+!s100 FKYf=O@DcoQBJ;DU7Mg]d1
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1654364359.526000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/semo_/OneDrive/Masaüstü/Donanim Kodlama/component_mux/mux_2x1.vhd|
+Z10 !s107 C:/Users/semo_/OneDrive/Masaüstü/Donanim Kodlama/component_mux/mux_2x1.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Acalismasi
+R2
+R3
+DEx4 work 7 mux_2x1 0 22 B0Z?VEQERVPl4kYUfZC0K1
+l8
+L7
+Vnd?[O;WUWSCQzPX2B1L5<2
+!s100 [Bh[61C350Ce_L3;ILoCm3
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12

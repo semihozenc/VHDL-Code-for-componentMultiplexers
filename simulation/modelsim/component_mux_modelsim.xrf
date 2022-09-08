@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/semo_/OneDrive/Masaüstü/Donanim Kodlama/component_mux/mux_2x1.vhd
+source_file = 1, C:/Users/semo_/OneDrive/Masaüstü/Donanim Kodlama/component_mux/mux_4x1.vhd
+source_file = 1, C:/Users/semo_/OneDrive/Masaüstü/Donanim Kodlama/component_mux/mux_8x1.vhd
+source_file = 1, C:/Users/semo_/OneDrive/Masaüstü/Donanim Kodlama/component_mux/db/component_mux.cbx.xml
+source_file = 1, e:/quartus/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, e:/quartus/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, e:/quartus/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, e:/quartus/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = mux_2x1
+instance = comp, \out21~output\, out21~output, mux_2x1, 1
+instance = comp, \b~input\, b~input, mux_2x1, 1
+instance = comp, \s~input\, s~input, mux_2x1, 1
+instance = comp, \a~input\, a~input, mux_2x1, 1
+instance = comp, \out21~0\, out21~0, mux_2x1, 1

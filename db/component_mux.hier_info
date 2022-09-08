@@ -1,0 +1,8 @@
+|mux_2x1
+a => out21.IN0
+b => out21.IN0
+s => out21.IN1
+s => out21.IN1
+out21 << out21.DB_MAX_OUTPUT_PORT_TYPE
+
+
